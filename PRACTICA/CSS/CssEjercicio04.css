@@ -1,0 +1,36 @@
+.parrafo {
+  width: 50%;
+  height: 30%;
+}
+
+.solid {
+  border: 3px solid rgb(236, 26, 26);
+}
+
+.dashed {
+  border: 4px dashed rgb(40, 107, 76);
+}
+
+.dotted {
+  border: 5px dotted rgb(47, 24, 150);
+}
+
+.double {
+  border: 3px double rgb(185, 70, 70);
+}
+
+.groove {
+  border: 2px groove rgb(52, 163, 71);
+}
+
+.ridge {
+  border: 1px ridge rgb(48, 187, 187);
+}
+
+.inset {
+  border: 5px inset rgb(117, 204, 83);
+}
+
+.outset {
+  border: 3px outset rgb(32, 110, 100);
+}

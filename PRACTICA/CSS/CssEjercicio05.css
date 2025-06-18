@@ -1,0 +1,26 @@
+p {
+  width: 50%;
+  height: auto;
+  padding: 10px 5px;
+  color: black;
+  font-family: poppins, sans-serif;
+}
+
+.pcentrado {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: gold;
+  border: 2px solid rgb(8, 32, 247);
+}
+
+.pderecha {
+  margin-left: auto;
+  background-color: red;
+  border: 2px solid rgb(255, 238, 0);
+}
+
+.pizquierda {
+  margin-right: auto;
+  background-color: blue;
+  border: 2px solid rgb(0, 255, 64);
+}
